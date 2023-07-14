@@ -1,5 +1,5 @@
 # Siddhant-Rawat-Ecommerce
-An Ecommerce application build using React.js.
+An Ecommerce application built using React.js.
 
 Website is responsive for Mobile Devices.
 
